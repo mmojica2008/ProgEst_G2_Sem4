@@ -1,17 +1,17 @@
-nombre_empresa = "TechNica"
+# nombre_empresa = "TechNica"
 
-def mostrar_empresa():
-    print("Empresa:", nombre_empresa)
+# def mostrar_empresa():
+#     print("Empresa:", nombre_empresa)
 
-mostrar_empresa()
+# mostrar_empresa()
 
 
 # EjercicioTotal
-# def calcular_total():
-#     total = 5000
-#     print("Total:", total)
+def calcular_total():
+    total = 5000
+    print("Total:", total)
 
-# calcular_total()
+calcular_total()
 
 
 
@@ -27,3 +27,5 @@ mostrar_empresa()
 # aumentar_contador()
 
 # print("Contador:", contador)
+
+print("Probando Commit")
